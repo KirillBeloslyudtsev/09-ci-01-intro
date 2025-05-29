@@ -55,3 +55,20 @@
 2. схема workflow other
 
      ![othertask.png](othertask.png)
+
+
+
+
+3. схема xml workflow bug
+
+ [bug.xml](bug.xml)
+
+
+
+
+
+4. схема xml workflow other
+
+
+
+ [othertask.xml](othertask.xml)
