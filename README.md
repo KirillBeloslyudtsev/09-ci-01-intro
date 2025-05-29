@@ -43,3 +43,15 @@
 Выполненное домашнее задание пришлите в виде ссылки на .md-файл в вашем репозитории.
 
 ---
+
+
+ 1. схема workflow bug
+
+
+
+     ![bug.png](bug.png)
+
+
+2. схема workflow other
+
+     ![othertask.png](othertask.png)
